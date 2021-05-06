@@ -19,6 +19,7 @@ Debes contar con lo siguiente:
 * Clonar en su local la rama main del proyecto una vez tenga preparado el ambiente.
 * En la raiz del proyecto ejecutar npm i.
 * Para correr el proyecto puede ejecutar npm run start:dev o npm start.
+* la configuracion de puerto y base dedatos se puede modificar de ser neccesario en el archivo config.js en la raiz del proyecto.
 * En la raiz del proyecto encontrar logystoV2 y logystoV21 que corresponden a las peticiones de postman que puede importar según la version que convenga.
 
 
